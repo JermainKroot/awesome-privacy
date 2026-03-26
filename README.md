@@ -25,6 +25,7 @@ This list is for individuals, developers, journalists, activists, and anyone int
 - [File Encryption & Storage](#file-encryption--storage)
 - [Identity & Metadata Protection](#identity--metadata-protection)
 - [Guides & Learning](#guides--learning)
+- [Cookie Consent & Compliance](#cookie-consent--compliance)
 - [Organizations & Advocacy](#organizations--advocacy)
 - [Related Awesome Lists](#related-awesome-lists)
 
@@ -105,6 +106,10 @@ This list is for individuals, developers, journalists, activists, and anyone int
 - [Electronic Frontier Foundation (EFF)](https://www.eff.org/) – Digital civil liberties advocacy.
 - [Access Now](https://www.accessnow.org/) – Defending digital rights worldwide.
 - [Privacy International](https://privacyinternational.org/) – Investigates and challenges surveillance.
+
+## Cookie Consent & Compliance
+
+- [Best Consent Management Platforms](https://github.com/JermainKroot/best-consent-management-platforms) – Hands-on comparison of 9 CMPs (OneTrust, Cookiebot, Iubenda, My Agile Privacy, and more) tested on 25+ real websites, covering GDPR/ePrivacy compliance, setup time, performance impact, and pricing.
 
 ## Related Awesome Lists
 
